@@ -2,10 +2,11 @@
     public static void main(String[] args) {
         System.out.println("Hello, World!"); // Prints "Hello, World!" to the console
     }
+<<ated upstream
   }
 //d2 write the code
 public class VariablesExample {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
         int age = 30; // Integer variable
         double price = 19.99; // Double-precision floating-point variable
         char initial = 'J'; // Character variable
@@ -18,3 +19,11 @@ public class VariablesExample {
         System.out.println("Initial: " + initial);
         System.out.println("Active: " + isActive);
     }
+=======
+    
+  
+  
+   }
+new code deve-1 without pull the code done commit
+
+>>>>>>> Stashed changes
