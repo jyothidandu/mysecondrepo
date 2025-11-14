@@ -1,0 +1,6 @@
+h1 {
+  color: blue; /* Sets the text color to blue */
+  font-family: Arial, sans-serif; /* Sets the font to Arial, with a generic sans-serif fallback */
+  font-size: 2.5em; /* Sets the font size relative to the parent element's font size */
+  text-align: center; /* Centers the text horizontally */
+}
